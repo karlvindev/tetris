@@ -66,8 +66,8 @@ h3{
     /*background-color: antiquewhite;*/
     display: flex;
     justify-content: space-evenly;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 .btn{
    /* background-color:antiquewhite;*/
