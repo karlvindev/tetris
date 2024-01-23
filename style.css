@@ -109,5 +109,6 @@ footer span{
     bottom: -10px;
     position: fixed;
     text-align: center;
+    margin-top: 5px;
     margin-bottom: 14px;
 }
